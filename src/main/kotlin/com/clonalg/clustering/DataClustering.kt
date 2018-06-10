@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
 @SpringBootApplication
-class PontoeletronicoApplication
+class DataClustering
 
 fun main(args: Array<String>) {
-    SpringApplication.run(PontoeletronicoApplication::class.java, *args)
+    SpringApplication.run(DataClustering::class.java, *args)
 }
